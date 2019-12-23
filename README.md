@@ -82,8 +82,8 @@ https://www.youtube.com/watch?v=-WKYAunGefg
 ## Pictures of the Terminal
 Here are two pictures of the Terminal.
 
-<img alt="Terminal Picture 1" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/terminal1.png" width="650" height="400">
-<img alt="Terminal Picture 2" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/terminal2.png" width="650" height="400">
+<img alt="Terminal Picture 1" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/terminal1.png" width="700" height="400">
+<img alt="Terminal Picture 2" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/terminal2.png" width="700" height="400">
 
 
 ## Pictures of my satellite
