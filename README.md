@@ -60,11 +60,11 @@ Now you can open the terminal. It asks you about the ip address of the satellite
 ### Annotation
 This project is completely non commercial and also open source. Feel free to develop new functions.
 
-NANO-SAT-01 is only a hobby. I can't guarantee it will work but of course you can open a issue if you have questions or need help.
+NANO-SAT-01 is only a hobby. I can't guarantee it will work but of course you can open a issue if you have questions or you need help.
 
 
 ### Circuit Diagram
-Here's my circuit diagram of the satellite. I drawed it on my own, so it is easy to understand.
+Here's my circuit diagram of the satellite. I drawed it on my own, so it should be easy to understand.
 ![Satellite Circuit Diagram](https://github.com/louis-e/NANO-SAT-01/blob/master/img/schematic.png)
 
 
@@ -73,18 +73,19 @@ Here's my circuit diagram of the satellite. I drawed it on my own, so it is easy
 | Name | Link | Explanation |
 | ------ | ------ | ------ |
 | Arduino IDE | https://www.arduino.cc/en/main/software | Needed to uploud and edit the sketch (code) |
-| Satellite Sketch | [plugins/googledrive/README.md][PlGd] | The code for the satellite |
-| Terminal | [plugins/github/README.md][PlGh] | Needed to send the satellite commands|
+| Satellite Sketch | https://github.com/louis-e/NANO-SAT-01/blob/master/satellite.ino | The code for the satellite |
+| Terminal | https://github.com/louis-e/NANO-SAT-01/blob/master/Nano%20Sat%20Control.exe | Needed to send the satellite commands|
 
 
 ## Video Demonstration
-This video is a little bit older and without a case. Unfortunately Github doesn't has a embed function.
+This video is a little bit older and without a case for the satellite. Unfortunately Github doesn't has a embed function.
 https://www.youtube.com/watch?v=-WKYAunGefg
+<br>
 *Wanna see me do it again?*
 
 
 ## Pictures of the Terminal
-Here are two pictures of the Terminal.
+Here are two pictures of the Terminal which I had written in C#. I also used this library: https://gist.github.com/louis-e/888d5031190408775ad130dde353e0fd
 
 <img alt="Terminal Picture 1" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/terminal1.png" width="700" height="400">
 <img alt="Terminal Picture 2" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/terminal2.png" width="700" height="400">
