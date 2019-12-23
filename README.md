@@ -17,11 +17,12 @@ What can he do?<br>
   -You can ask the satellite what the humidity and the temperature is<br>
 <br>
 <br>
+<br>
 What do you need to build it?<br>
-(You also can use other electronic parts but then you probably have to change something in the code)
-<br>  -Arduino Nano 33 Iot (I choosed it because it has onboard Wifi)
-<br>  -TP4056
-<br>  -Voltage Booster (from 3.7V up to 5V)<br>
+(You also can use other electronic parts but then you probably have to change something in the code)<br>
+  -Arduino Nano 33 Iot (I choosed it because it has onboard Wifi)<br>
+  -TP4056<br>
+  -Voltage Booster (from 3.7V up to 5V)<br>
   -Lipo Battery<br>
   -DHT11<br>
   -LED<br>
