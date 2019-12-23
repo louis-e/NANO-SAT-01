@@ -57,12 +57,6 @@ There should light up an onboard led and the beeper should make a short *beep*. 
 Now you can open the terminal. It asks you about the ip address of the satellite. You should find the ip address in the online panel of your router. Enter the ip address and press enter. It now should display a welcome message. If it doesn't work, feel free to open an issue in this repository. Write "help" to see a list of all commands.
 
 
-### Annotation
-This project is completely non commercial and also open source. Feel free to develop new functions.
-
-NANO-SAT-01 is only a hobby. I can't guarantee it will work but of course you can open a issue if you have questions or you need help.
-
-
 ### Circuit Diagram
 Here's my circuit diagram of the satellite. I drawed it on my own, so it should be easy to understand.
 ![Satellite Circuit Diagram](https://github.com/louis-e/NANO-SAT-01/blob/master/img/schematic.png)
@@ -100,6 +94,13 @@ Finally, I want to show you some pictures of my satellite. I put it in a case an
 <img alt="Production Picture 4" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/production4.png" width="550" height="400">
 <img alt="Production Picture 5" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/production5.png" width="650" height="400">
 <img alt="Production Picture 6" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/production6.png" width="550" height="400">
+
+
+### Annotation
+This project is completely non commercial and also open source. Feel free to develop new functions.
+
+NANO-SAT-01 is only a hobby. I can't guarantee it will work but of course you can open a issue if you have questions or you need help.
+
 
 
 License
