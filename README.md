@@ -29,6 +29,7 @@ IMPORTANT: This is only a model, of course it does not act like a real satellite
 -100 Ohm Resistor *(for the beeper)*
 -1N4007 Diode
 -Wires
+-"Sticky" Button (Button, which keeps on when pressed)
 ```
 
 *You probably also need following things*
@@ -52,11 +53,6 @@ There should light up an onboard led and the beeper should make a short *beep*. 
 Now you can open the terminal. It asks you about the ip address of the satellite. You should find the ip address in the online panel of your router. Enter the ip address and press enter. It now should display a welcome message. If it doesn't work, feel free to open an issue in this repository. Write "help" to see a list of all commands.
 
 
-### Circuit Diagram
-Here's my circuit diagram of the satellite. I drawed it on my own, so it is easy to understand.
-![Satellite Circuit Diagram](https://github.com/louis-e/NANO-SAT-01/blob/master/schematic.png)
-
-
 ### Annotation
 This project is completely non commercial and also open source. Feel free to develop new functions.
 
@@ -65,6 +61,7 @@ NANO-SAT-01 is only a hobby. I can't guarantee it will work but of course you ca
 
 ### Circuit Diagram
 Here's my circuit diagram of the satellite. I drawed it on my own, so it is easy to understand.
+![Satellite Circuit Diagram](https://github.com/louis-e/NANO-SAT-01/blob/master/schematic.png)
 
 
 Dillinger uses a number of open source projects to work properly:
