@@ -1,7 +1,0 @@
-D:\GESAMT\Dieser PC\Dokumente\Visual Studio 2017\Projects\Nano Sat Control\Nano Sat Control\bin\Debug\Nano Sat Control.exe.config
-D:\GESAMT\Dieser PC\Dokumente\Visual Studio 2017\Projects\Nano Sat Control\Nano Sat Control\bin\Debug\Nano Sat Control.exe
-D:\GESAMT\Dieser PC\Dokumente\Visual Studio 2017\Projects\Nano Sat Control\Nano Sat Control\bin\Debug\Nano Sat Control.pdb
-D:\GESAMT\Dieser PC\Dokumente\Visual Studio 2017\Projects\Nano Sat Control\Nano Sat Control\obj\Debug\Nano Sat Control.csprojAssemblyReference.cache
-D:\GESAMT\Dieser PC\Dokumente\Visual Studio 2017\Projects\Nano Sat Control\Nano Sat Control\obj\Debug\Nano Sat Control.csproj.CoreCompileInputs.cache
-D:\GESAMT\Dieser PC\Dokumente\Visual Studio 2017\Projects\Nano Sat Control\Nano Sat Control\obj\Debug\Nano Sat Control.exe
-D:\GESAMT\Dieser PC\Dokumente\Visual Studio 2017\Projects\Nano Sat Control\Nano Sat Control\obj\Debug\Nano Sat Control.pdb
