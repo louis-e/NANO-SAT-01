@@ -8,7 +8,7 @@ IMPORTANT: This is only a model, of course it does not act like a real satellite
 <br>
 <br>
 <br>
-**What can he do?**<br>
+###### What can he do?<br>
   -Charge himself with a solar panel<br>
   -Control the satellite and his functions via wifi from the terminal<br>
   -You can have an extern LED light up<br>
@@ -18,7 +18,7 @@ IMPORTANT: This is only a model, of course it does not act like a real satellite
 <br>
 <br>
 <br>
-**What do you need to build it?**<br>
+###### What do you need to build it?<br>
 *(You also can use other electronic parts but then you probably have to change something in the code)*<br>
   -Arduino Nano 33 Iot *(I choosed it because it has onboard Wifi)*<br>
   -TP4056<br>
