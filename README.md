@@ -17,7 +17,7 @@ IMPORTANT: This is only a model, of course it does not act like a real satellite
 
 ### What do I need to build it?
 *(You also can use other electronic parts but then you probably have to change something in the code)*
--Arduino Nano 33 Iot *(I choosed it because it has onboard Wifi)*
+'''-Arduino Nano 33 Iot *(I choosed it because it has onboard Wifi)*
 -TP4056
 -Solar Panel (5V)
 -Voltage Booster *(from 3.7V up to 5V)*
@@ -29,7 +29,8 @@ IMPORTANT: This is only a model, of course it does not act like a real satellite
 -100 Ohm Resistor *(for the beeper)*
 -1N4007 Diode
 -Wires
-  
+'''
+
 *You probably also need following things*
 -Soldering iron
 -A case for your satellite
