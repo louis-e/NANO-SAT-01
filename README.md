@@ -61,7 +61,7 @@ NANO-SAT-01 is only a hobby. I can't guarantee it will work but of course you ca
 
 ### Circuit Diagram
 Here's my circuit diagram of the satellite. I drawed it on my own, so it is easy to understand.
-![Satellite Circuit Diagram](https://github.com/louis-e/NANO-SAT-01/blob/master/schematic.png)
+![Satellite Circuit Diagram](https://github.com/louis-e/NANO-SAT-01/blob/master/img/schematic.png)
 
 
 ### Links to the software you need
