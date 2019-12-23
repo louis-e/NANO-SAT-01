@@ -7,13 +7,13 @@ IMPORTANT: This is only a model, of course it does not act like a real satellite
   
 
 ### What can the satellite do?
-
--Charge himself with a solar panel
+```-Charge himself with a solar panel
 -Control the satellite and his functions via wifi from the terminal
 -You can have an extern LED light up
 -You can have the onboard (D13) LED light up
 -You can force the beeper to make annoying sounds
 -You can ask the satellite what the humidity and the temperature is
+```
 
 ### What do I need to build it?
 *(You also can use other electronic parts but then you probably have to change something in the code)*
