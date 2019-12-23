@@ -77,11 +77,11 @@ Here's my circuit diagram of the satellite. I drawed it on my own, so it is easy
 Finally, I want to show you some pictures of my satellite. I put it in a case and I decorated it. It's not finished, Iam going to do some improvements the next days.
 
 <img alt="Production Picture 1" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/production1.png" width="600" height="400">
-![Production Picture 2](https://github.com/louis-e/NANO-SAT-01/blob/master/img/production2.png)
-![Production Picture 3](https://github.com/louis-e/NANO-SAT-01/blob/master/img/production3.png)
-![Production Picture 4](https://github.com/louis-e/NANO-SAT-01/blob/master/img/production4.png)
-![Production Picture 5](https://github.com/louis-e/NANO-SAT-01/blob/master/img/production5.png)
-![Production Picture 6](https://github.com/louis-e/NANO-SAT-01/blob/master/img/production6.png)
+<img alt="Production Picture 2" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/production2.png" width="600" height="400">
+<img alt="Production Picture 3" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/production3.png" width="600" height="400">
+<img alt="Production Picture 4" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/production4.png" width="600" height="400">
+<img alt="Production Picture 5" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/production5.png" width="600" height="400">
+<img alt="Production Picture 6" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/production6.png" width="600" height="400">
 
 
 
