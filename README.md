@@ -78,7 +78,7 @@ Finally, I want to show you some pictures of my satellite. I put it in a case an
 
 <img alt="Production Picture 1" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/production1.png" width="600" height="400">
 <img alt="Production Picture 2" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/production2.png" width="300" height="400">
-<img alt="Production Picture 3" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/production3.png" width="500" height="400">
+<img alt="Production Picture 3" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/production3.png" width="400" height="400">
 <img alt="Production Picture 4" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/production4.png" width="550" height="400">
 <img alt="Production Picture 5" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/production5.png" width="550" height="400">
 <img alt="Production Picture 6" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/production6.png" width="550" height="400">
