@@ -43,7 +43,7 @@ IMPORTANT: This is only a model, of course it does not act like a real satellite
 ```
 
 ### How to use the satellite
-Firstly, connect the Arduino via USB with your computer. Make sure you disconnect the two power supply wires at the pins GND and VIN before you connect the Arduino with your computer! Then you probably have to install the Arduino Nano 33 Iot Board in the Arduino IDE (Follow this [guide](https://forum.arduino.cc/index.php?topic=621630.0)). Change the Board under Tools->Board and then choose the right COM Port.
+Firstly, connect the Arduino via USB with your computer. Make sure you disconnect the two power supply wires at the pins GND and VIN before you connect the Arduino with your computer! Then you probably have to install the Arduino Nano 33 Iot Board in the Arduino IDE (Follow this [guide](https://www.arduino.cc/en/Guide/NANO33IoT#toc2)). Change the Board under Tools->Board and then choose the right COM Port.
 After that, change in the Arduino IDE in line 12 and 13 the two values of the variables "SECRET_SSID" and "SECRET_PASS". The SSID is the name of your wifi network, and the PASS is the password of your wifi network. The satellite can now establish a connection to the terminal.
 Now you can uploud the sketch and after that disconnect the USB cable. Now you can connect the two power supply wires to the pins GND and VIN.
 There should light up an onboard led and the beeper should make a short *beep*. Wait ~20 seconds until it beeps again. Then the arduino is connected to your wifi network.
