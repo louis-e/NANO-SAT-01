@@ -8,7 +8,8 @@ IMPORTANT: This is only a model, of course it does not act like a real satellite
 <br>
 <br>
 <br>
-###### What can he do?<br>
+###### What can he do?
+<br>
   -Charge himself with a solar panel<br>
   -Control the satellite and his functions via wifi from the terminal<br>
   -You can have an extern LED light up<br>
