@@ -8,36 +8,36 @@ IMPORTANT: This is only a model, of course it does not act like a real satellite
 
 ### What can the satellite do?
 
-  -Charge himself with a solar panel
-  -Control the satellite and his functions via wifi from the terminal
-  -You can have an extern LED light up
-  -You can have the onboard (D13) LED light up
-  -You can force the beeper to make annoying sounds
-  -You can ask the satellite what the humidity and the temperature is
+-Charge himself with a solar panel
+-Control the satellite and his functions via wifi from the terminal
+-You can have an extern LED light up
+-You can have the onboard (D13) LED light up
+-You can force the beeper to make annoying sounds
+-You can ask the satellite what the humidity and the temperature is
 
 ### What do I need to build it?
-  *(You also can use other electronic parts but then you probably have to change something in the code)*
-  -Arduino Nano 33 Iot *(I choosed it because it has onboard Wifi)*
-  -TP4056
-  -Solar Panel (5V)
-  -Voltage Booster *(from 3.7V up to 5V)*
-  -Lipo Battery *(3.7V)*
-  -DHT11
-  -LED
-  -Beeper *(other names are buzzer or speaker)*
-  -220 Ohm Resistor *(for the LED)*
-  -100 Ohm Resistor *(for the beeper)*
-  -1N4007 Diode
-  -Wires
+*(You also can use other electronic parts but then you probably have to change something in the code)*
+-Arduino Nano 33 Iot *(I choosed it because it has onboard Wifi)*
+-TP4056
+-Solar Panel (5V)
+-Voltage Booster *(from 3.7V up to 5V)*
+-Lipo Battery *(3.7V)*
+-DHT11
+-LED
+-Beeper *(other names are buzzer or speaker)*
+-220 Ohm Resistor *(for the LED)*
+-100 Ohm Resistor *(for the beeper)*
+-1N4007 Diode
+-Wires
   
-  *You probably also need following things*
-  -Soldering iron
-  -A case for your satellite
-  -Computer
+*You probably also need following things*
+-Soldering iron
+-A case for your satellite
+-Computer
 
-  **
-  -Arduino IDE
-  -NANO-SAT-01 Terminal
+*Software*
+-Arduino IDE
+-NANO-SAT-01 Terminal
 
 ### How to use the satellite
 Firstly, connect the Arduino via USB with your computer. Make sure you disconnect the two power supply wires at the pins GND and VIN before you connect the Arduino with your computer! Then you probably have to install the Arduino Nano 33 Iot Board in the Arduino IDE (Follow this [guide](https://forum.arduino.cc/index.php?topic=621630.0)). Change the Board under Tools->Board and then choose the right COM Port.
