@@ -76,7 +76,7 @@ Here's my circuit diagram of the satellite. I drawed it on my own, so it is easy
 ## Pictures of my satellite
 Finally, I want to show you some pictures of my satellite. I put it in a case and I decorated it. It's not finished, Iam going to do some improvements the next days.
 
-![Production Picture 1](https://github.com/louis-e/NANO-SAT-01/blob/master/img/production1.png?v=4&s=200)
+<img alt="Production Picture 1" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/production1.png" width="100" height="100">
 ![Production Picture 2](https://github.com/louis-e/NANO-SAT-01/blob/master/img/production2.png)
 ![Production Picture 3](https://github.com/louis-e/NANO-SAT-01/blob/master/img/production3.png)
 ![Production Picture 4](https://github.com/louis-e/NANO-SAT-01/blob/master/img/production4.png)
