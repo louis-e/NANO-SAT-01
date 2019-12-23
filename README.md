@@ -73,6 +73,19 @@ Here's my circuit diagram of the satellite. I drawed it on my own, so it is easy
 | Terminal | [plugins/github/README.md][PlGh] | Needed to send the satellite commands|
 
 
+## Video Demonstration
+This video is a little bit older and without a case. Unfortunately Github doesn't has a embed function.
+https://www.youtube.com/watch?v=-WKYAunGefg
+*Wanna see me do it again?*
+
+
+## Pictures of the Terminal
+Here are two pictures of the Terminal.
+
+<img alt="Terminal Picture 1" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/terminal1.png" width="600" height="400">
+<img alt="Terminal Picture 2" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/terminal2.png" width="600" height="400">
+
+
 ## Pictures of my satellite
 Finally, I want to show you some pictures of my satellite. I put it in a case and I decorated it. It's not finished yet, Iam going to do some improvements the next days.
 
