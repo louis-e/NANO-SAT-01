@@ -102,6 +102,8 @@ This project is completely non commercial and also open source. Feel free to dev
 NANO-SAT-01 is only a hobby. I can't guarantee it will work but of course you can open a issue if you have questions or you need help.
 
 
+Readme V1.0
+
 
 License
 ----
