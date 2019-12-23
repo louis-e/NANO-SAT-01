@@ -64,6 +64,17 @@ Here's my circuit diagram of the satellite. I drawed it on my own, so it is easy
 ![Satellite Circuit Diagram](https://github.com/louis-e/NANO-SAT-01/blob/master/schematic.png)
 
 
+### Links to the software you need
+
+| Name | Link | Explanation |
+| ------ | ------ | ------ |
+| Arduino IDE | https://www.arduino.cc/en/main/software | Needed to uploud and edit the sketch (code) |
+| Satellite Sketch | [plugins/googledrive/README.md][PlGd] | The code for the satellite |
+| Terminal | [plugins/github/README.md][PlGh] | Needed to send the satellite commands|
+
+
+
+
 Dillinger uses a number of open source projects to work properly:
 
 * [AngularJS] - HTML enhanced for web apps!
