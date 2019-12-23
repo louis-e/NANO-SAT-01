@@ -8,7 +8,16 @@ namespace Nano_Sat_Control
         {
             Console.Title = "NANO-SAT-01 Ground Station Control";
             UDPSocket c = new UDPSocket();
-            c.Client("127.0.0.1", 2390);    //Replace "127.0.0.1" with your Arduino's IP address
+            Console.WriteLine("Enter the ip address of the satellite");
+            string ip_address = Console.ReadLine();
+            try
+            {
+                c.Client(ip_address, 2390);
+            }
+            catch
+            {
+                Console.WriteLine("Error while connecting to the satellite");
+            }
 
             c.Send("ConnectionRequest_S01");
             Console.ForegroundColor = ConsoleColor.Yellow;
