@@ -1,13 +1,13 @@
 # NANO-SAT-01
-
+<br>
 IMPORTANT: This is only a model, of course it does not act like a real satellite and it won't work in space (I don't believe you will
            bring him up there anyway).
-           
-           
-           
-           
-           
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 What can he do?
   -Charge himself with a solar panel
   -Control the satellite and his functions via wifi from the terminal
