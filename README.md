@@ -32,13 +32,15 @@ IMPORTANT: This is only a model, of course it does not act like a real satellite
 ```
 
 *You probably also need following things*
--Soldering iron
+```-Soldering iron
 -A case for your satellite
 -Computer
+```
 
 *Software*
--Arduino IDE
+```-Arduino IDE
 -NANO-SAT-01 Terminal
+```
 
 ### How to use the satellite
 Firstly, connect the Arduino via USB with your computer. Make sure you disconnect the two power supply wires at the pins GND and VIN before you connect the Arduino with your computer! Then you probably have to install the Arduino Nano 33 Iot Board in the Arduino IDE (Follow this [guide](https://forum.arduino.cc/index.php?topic=621630.0)). Change the Board under Tools->Board and then choose the right COM Port.
