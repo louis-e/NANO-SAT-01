@@ -79,7 +79,7 @@ https://www.youtube.com/watch?v=-WKYAunGefg
 
 
 ## Pictures of the Terminal
-Here are two pictures of the Terminal which I had written in C#. I also used this library: https://gist.github.com/louis-e/888d5031190408775ad130dde353e0fd
+Here are two pictures of the Terminal which I had written in C#. I also used this library for the connection over UDP: https://gist.github.com/louis-e/888d5031190408775ad130dde353e0fd
 
 <img alt="Terminal Picture 1" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/terminal1.png" width="700" height="400">
 <img alt="Terminal Picture 2" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/terminal2.png" width="700" height="400">
