@@ -76,6 +76,7 @@ This video is a little bit older and without a case for the satellite. Unfortuna
 https://www.youtube.com/watch?v=-WKYAunGefg
 <br>
 This is a newer video demonstrating the new graphical Ground Control software.
+<br>
 https://www.youtube.com/watch?v=fz-aw_vzcbs
 
 
