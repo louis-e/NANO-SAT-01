@@ -75,6 +75,7 @@ Here's my circuit diagram of the satellite. I drawed it on my own, so it should 
 This video is a little bit older and without a case for the satellite. Unfortunately Github doesn't has a embed function.
 https://www.youtube.com/watch?v=-WKYAunGefg
 <br>
+This is a newer video demonstrating the new graphical Ground Control software.
 https://www.youtube.com/watch?v=fz-aw_vzcbs
 
 
