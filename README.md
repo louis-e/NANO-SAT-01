@@ -75,7 +75,7 @@ Here's my circuit diagram of the satellite. I drawed it on my own, so it should 
 This video is a little bit older and without a case for the satellite. Unfortunately Github doesn't has a embed function.
 https://www.youtube.com/watch?v=-WKYAunGefg
 <br>
-*Wanna see me do it again?*
+https://www.youtube.com/watch?v=fz-aw_vzcbs
 
 
 ## Pictures of the Terminal
