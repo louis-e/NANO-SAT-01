@@ -1,6 +1,6 @@
 # NANO-SAT-01
 
-IMPORTANT: This is only a model, of course it does not act like a real satellite and it won't work in space (I don't believe you will bring him up there anyway).
+IMPORTANT: This is only a model, of course it does not act like a real satellite and it won't work in space (I don't believe you will bring it up there anyway).
 
   
   
@@ -8,12 +8,12 @@ IMPORTANT: This is only a model, of course it does not act like a real satellite
 
 ### What can the satellite do?
 ```
--Charge himself with a solar panel
--Control the satellite and his functions via wifi from the terminal
--You can have an extern LED light up
--You can have the onboard (D13) LED light up
--You can force the beeper to make annoying sounds
--You can ask the satellite what the humidity and the temperature is
+-Charge itself with a solar panel
+-Control the satellite and its functions via wifi from the terminal
+-You can let an external LED light up
+-You can let the onboard (D13) LED light up
+-You can let the beeper make annoying sounds
+-You can request humidity and temperature from the satellite
 ```
 
 ### What do I need to build it?
@@ -34,7 +34,7 @@ IMPORTANT: This is only a model, of course it does not act like a real satellite
 -"Sticky" Button (Button, which keeps on when pressed)
 ```
 
-*You probably also need following things*
+*You probably also need the following things*
 ```
 -Soldering iron
 -A case for your satellite
@@ -49,16 +49,16 @@ IMPORTANT: This is only a model, of course it does not act like a real satellite
 
 ### How to use the satellite
 *When your'e finished building the satellite, follow this steps:*<br>
-Firstly, connect the Arduino via USB with your computer. Make sure you disconnect the two power supply wires at the pins GND and VIN before you connect the Arduino with your computer! Then you probably have to install the Arduino Nano 33 Iot Board in the Arduino IDE (Follow this [guide](https://www.arduino.cc/en/Guide/NANO33IoT#toc2)). Change the Board under Tools->Board and then choose the right COM Port.
+Firstly, connect the Arduino via USB with your computer. Make sure you disconnect the two power supply wires at the pins GND and VIN before you connect the Arduino with your computer! Then you probably have to install the Arduino Nano 33 Iot Board in the Arduino IDE first (Follow this [guide](https://www.arduino.cc/en/Guide/NANO33IoT#toc2)). Change the Board under Tools->Board and then choose the right COM Port.
 After that, change in the Arduino IDE in line 12 and 13 the two values of the variables "SECRET_SSID" and "SECRET_PASS". The SSID is the name of your wifi network, and the PASS is the password of your wifi network. The satellite can now establish a connection to the terminal.
-Now you can uploud the sketch and after that disconnect the USB cable. Now you can connect the two power supply wires to the pins GND and VIN.
+Now you can uploud the sketch and after that, disconnect the USB cable. Now you can connect the two power supply wires to the pins GND and VIN.
 There should light up an onboard led and the beeper should make a short *beep*. Wait ~20 seconds until it beeps again. Then the arduino is connected to your wifi network.
 
-Now you can open the terminal. It asks you about the ip address of the satellite. You should find the ip address in the online panel of your router. Enter the ip address and press enter. It now should display a welcome message. If it doesn't work, feel free to open an issue in this repository. Write "help" to see a list of all commands.
+Now you can open the terminal. It asks you for the ip address of the satellite. You should find the ip address in the online dashboard panel of your router. Enter the ip address and press enter. It now should display a welcome message. If it doesn't work, feel free to open an issue in this repository. Write "help" to see a list of all commands.
 
 
 ### Circuit Diagram
-Here's my circuit diagram of the satellite. I drawed it on my own, so it should be easy to understand.
+Here's my circuit diagram of the satellite. I drew it on my own in a not-professional-way, so it should be easy to understand. :)
 ![Satellite Circuit Diagram](https://github.com/louis-e/NANO-SAT-01/blob/master/img/schematic.png)
 
 
@@ -72,7 +72,7 @@ Here's my circuit diagram of the satellite. I drawed it on my own, so it should 
 
 
 ## Video Demonstration
-This video is a little bit older and without a case for the satellite. Unfortunately Github doesn't has a embed function.
+This video is a bit older and without a case for the satellite. Unfortunately Github doesn't has a embed function.
 https://www.youtube.com/watch?v=-WKYAunGefg
 <br>
 This is a newer video demonstrating the new graphical Ground Control software.
@@ -88,7 +88,7 @@ Here are two pictures of the Terminal which I had written in C#. I also used thi
 
 
 ## Pictures of my satellite
-Finally, I want to show you some pictures of my satellite. I put it in a case and I decorated it. It's not finished yet, Iam going to do some improvements the next days.
+Finally, I want to show you some pictures of my satellite. I put it in a case and decorated it. It's not finished yet, I am going to do some improvements in the next days.
 
 <img alt="Production Picture 1" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/production1.png" width="600" height="400">
 <img alt="Production Picture 2" src="https://github.com/louis-e/NANO-SAT-01/blob/master/img/production2.png" width="300" height="400">
@@ -99,7 +99,7 @@ Finally, I want to show you some pictures of my satellite. I put it in a case an
 
 
 ### Annotation
-This project is completely non commercial and also open source. Feel free to develop new functions.
+This project is completely non commercial and also open source. Feel free to develop new features.
 
 NANO-SAT-01 is only a hobby. I can't guarantee it will work but of course you can open a issue if you have questions or you need help.
 
